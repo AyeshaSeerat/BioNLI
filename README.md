@@ -16,3 +16,15 @@
 * The BioBERT large-cased-v1.1-mnli model is an NLP (natural language processing) model that is implemented in the Transformer library, often with Python, Hugging Face link: https://huggingface.co/dmis-lab/biobert-base-cased-v1.1-mnli
 # BioLinkBERT-base
 * LinkBERT is a transformer encoder model similar to BERT. It has been pre-trained on a large corpus of documents. The model has been improved by adding links between documents, such as hyperlinks and citation links. This enables the model to incorporate knowledge that is dispersed across multiple sources, Hugging face link: https://huggingface.co/michiyasunaga/BioLinkBERT-base
+# Cite our work
+If this repository is helpful for you please cite our paper
+
+@article{seerat2024biomedical,
+  title={Biomedical Natural Language Inference on Clinical Trials using the BERT-based Models},
+  author={Seerat, Ayesha and Nasir, Sarah and Wasim, Muhammad and Garcia, Nuno M},
+  journal={Procedia Computer Science},
+  volume={241},
+  pages={576--581},
+  year={2024},
+  publisher={Elsevier}
+}
