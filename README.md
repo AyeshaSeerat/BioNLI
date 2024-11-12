@@ -19,6 +19,7 @@
 # Cite our work
 If this repository is helpful for you please cite our paper
 
+```bibtex
 @article{seerat2024biomedical,
   title={Biomedical Natural Language Inference on Clinical Trials using the BERT-based Models},
   author={Seerat, Ayesha and Nasir, Sarah and Wasim, Muhammad and Garcia, Nuno M},
@@ -28,3 +29,4 @@ If this repository is helpful for you please cite our paper
   year={2024},
   publisher={Elsevier}
 }
+
